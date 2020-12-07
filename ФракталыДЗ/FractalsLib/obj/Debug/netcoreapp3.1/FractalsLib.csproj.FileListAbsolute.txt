@@ -1,0 +1,9 @@
+C:\Users\Alex Raj\source\repos\FractalsLib\bin\Debug\netcoreapp3.1\FractalsLib.deps.json
+C:\Users\Alex Raj\source\repos\FractalsLib\bin\Debug\netcoreapp3.1\FractalsLib.dll
+C:\Users\Alex Raj\source\repos\FractalsLib\bin\Debug\netcoreapp3.1\FractalsLib.pdb
+C:\Users\Alex Raj\source\repos\FractalsLib\obj\Debug\netcoreapp3.1\FractalsLib.csprojAssemblyReference.cache
+C:\Users\Alex Raj\source\repos\FractalsLib\obj\Debug\netcoreapp3.1\FractalsLib.AssemblyInfoInputs.cache
+C:\Users\Alex Raj\source\repos\FractalsLib\obj\Debug\netcoreapp3.1\FractalsLib.AssemblyInfo.cs
+C:\Users\Alex Raj\source\repos\FractalsLib\obj\Debug\netcoreapp3.1\FractalsLib.csproj.CoreCompileInputs.cache
+C:\Users\Alex Raj\source\repos\FractalsLib\obj\Debug\netcoreapp3.1\FractalsLib.dll
+C:\Users\Alex Raj\source\repos\FractalsLib\obj\Debug\netcoreapp3.1\FractalsLib.pdb
